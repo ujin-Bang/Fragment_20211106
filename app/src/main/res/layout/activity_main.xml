@@ -8,6 +8,12 @@
     tools:context=".MainActivity">
 
 
+    <fragment
+        android:tag="첫번째 프래그먼트"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="org.techtown.fragment_20211106.fragments.FirstFragment"/>
+
 
 
 </LinearLayout>
