@@ -20,4 +20,11 @@
         android:layout_height="wrap_content"
         android:textColor="프래그먼트에서 로그찍기"/>
 
+    <Button
+        android:id="@+id/btnToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="토스트띄우기"/>
+
+
 </LinearLayout>
